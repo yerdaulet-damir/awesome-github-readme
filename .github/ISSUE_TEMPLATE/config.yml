@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Generate a Card
+    url: https://coolreadme.xyz
+    about: "Create cinematic README cards instantly — free, no signup"
+  - name: Browse Templates
+    url: https://github.com/yerdaulet-damir/awesome-github-readme/tree/main/templates
+    about: "Copy-paste ready README templates"

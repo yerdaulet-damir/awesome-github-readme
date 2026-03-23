@@ -1,0 +1,62 @@
+name: "Add My Profile"
+description: "Get your GitHub profile featured in Awesome GitHub README"
+title: "[Profile] @"
+labels: ["profile", "community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting your profile! We love seeing creative READMEs.
+
+  - type: input
+    id: github_username
+    attributes:
+      label: GitHub Username
+      description: "Your GitHub username (without @)"
+      placeholder: "octocat"
+    validations:
+      required: true
+
+  - type: input
+    id: one_liner
+    attributes:
+      label: One-liner
+      description: "A short description of who you are"
+      placeholder: "Full-stack developer. Building cool things."
+    validations:
+      required: true
+
+  - type: textarea
+    id: tools_used
+    attributes:
+      label: Tools Used
+      description: "Which README tools from our collection do you use?"
+      placeholder: |
+        - github-readme-stats
+        - readme-typing-svg
+        - coolreadme.xyz
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: "Paste a screenshot of your profile README (drag & drop an image here)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: style
+    attributes:
+      label: Profile Style
+      description: "What best describes your README style?"
+      options:
+        - Minimal / Clean
+        - Full-featured / Maximal
+        - Creative / Personal
+        - OSS Maintainer
+        - AI / Hacker
+        - Other
+    validations:
+      required: true

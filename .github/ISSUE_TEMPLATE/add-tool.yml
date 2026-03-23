@@ -1,0 +1,54 @@
+name: "Add a Tool"
+description: "Suggest a new README tool, generator, or widget to add"
+title: "[Tool] "
+labels: ["tool", "enhancement"]
+body:
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool Name
+      placeholder: "my-awesome-readme-tool"
+    validations:
+      required: true
+
+  - type: input
+    id: tool_url
+    attributes:
+      label: URL
+      description: "GitHub repo or website"
+      placeholder: "https://github.com/user/repo"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Profile Card Generators
+        - Stats & Metrics
+        - Animations & Effects
+        - Tech Stack & Skills
+        - Social & Activity
+        - "Music, Media & Lifestyle"
+        - Achievements & Trophies
+        - Badges & Icons
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "Brief description of what the tool does"
+      placeholder: "Generates dynamic cards that show..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: example
+    attributes:
+      label: Example
+      description: "Markdown example or screenshot"
+      placeholder: "![Example](https://...)"

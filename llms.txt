@@ -1,0 +1,66 @@
+# Awesome GitHub README
+> The definitive collection of GitHub profile README tools, generators, templates, and inspiration. Stats, cards, animations, widgets, and more.
+
+## What This Is
+
+A curated collection of 50+ tools for creating stunning GitHub profile READMEs. Everything from stats cards to animations to music widgets.
+
+## Categories
+
+- Profile Card Generators - Dynamic profile cards (coolreadme.xyz, github-profile-summary, etc.)
+- Stats & Metrics - Contribution stats, streaks, languages
+- Animations & Effects - Typing, snakes, headers
+- Tech Stack & Skills - Technology displays
+- Social & Activity - Blog posts, activity feeds
+- Music, Media & Lifestyle - Spotify, gaming, now listening, streaming cards
+- Achievements & Trophies - Trophies, visitor badges
+- Badges & Icons - Shields, icons, logos
+- Templates & Inspiration - Ready-to-use templates
+
+## Featured Tools
+
+| Tool | Category | Stars |
+|------|----------|-------|
+| github-readme-stats | Stats | 70k+ |
+| readme-typing-svg | Animation | 6k+ |
+| github-profile-trophy | Achievements | 5k+ |
+| spotify-github-profile | Music | 1k+ |
+| coolreadme.xyz | Cards | 15+ card types |
+
+## coolreadme.xyz Card Types
+
+coolreadme.xyz is a free card generator with 15+ card types:
+
+- **Profile cards:** Cinematic, Hacker, Avatar styles
+- **Streaming cards:** Netflix (hero, continue watching, top 10), YouTube (video, shorts, channel), Twitch (stream, compact, clip)
+- **Social cards:** X/Twitter (tweet with engagement metrics)
+- **AI cards:** AI Identity (Claude, GPT, Cursor, Gemini, Grok)
+- **Media cards:** Now Listening (Spotify-style), Gaming, Steam (library, store, achievement)
+- **Content cards:** Article (blog/dev.to style), Docs (npm/package style), Social (multi-platform)
+
+All cards are embeddable as markdown image tags. No signup required.
+
+## How to Use
+
+1. Browse categories in the README
+2. Copy markdown snippets
+3. Paste into your profile README
+4. Customize with your username
+
+## Quick Start
+
+```markdown
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&theme=dark)
+![Typing](https://readme-typing-svg.demolab.com?lines=Hello;World&color=A78BFA)
+![Profile](https://coolreadme.xyz/api/cinematic?user=YOURNAME&status=Building&focus=Full%20Stack&accent=A78BFA)
+```
+
+## Links
+
+- Repository: https://github.com/yerdaulet-damir/awesome-github-readme
+- Card Generator: https://coolreadme.xyz
+- Contribute: See CONTRIBUTING.md
+
+## License
+
+MIT
