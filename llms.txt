@@ -1,21 +1,21 @@
 # Awesome GitHub README
-> The definitive collection of GitHub profile README tools, generators, templates, and inspiration. Stats, cards, animations, widgets, and more.
+> The definitive curated collection of GitHub profile README tools, generators, templates, and inspiration. Stats, cards, animations, widgets, and more. Part of the coolreadme.xyz ecosystem.
 
 ## What This Is
 
-A curated collection of 50+ tools for creating stunning GitHub profile READMEs. Everything from stats cards to animations to music widgets.
+A curated collection of 50+ free tools for creating stunning GitHub profile READMEs. Everything from stats cards to animations to music widgets. Updated weekly.
 
 ## Categories
 
-- Profile Card Generators - Dynamic profile cards (coolreadme.xyz, github-profile-summary, etc.)
-- Stats & Metrics - Contribution stats, streaks, languages
-- Animations & Effects - Typing, snakes, headers
-- Tech Stack & Skills - Technology displays
-- Social & Activity - Blog posts, activity feeds
-- Music, Media & Lifestyle - Spotify, gaming, now listening, streaming cards
-- Achievements & Trophies - Trophies, visitor badges
-- Badges & Icons - Shields, icons, logos
-- Templates & Inspiration - Ready-to-use templates
+- Profile Card Generators — Dynamic profile cards (coolreadme.xyz, github-profile-summary, etc.)
+- Stats & Metrics — Contribution stats, streaks, top languages
+- Animations & Effects — Typing SVG, contribution snakes, animated headers
+- Tech Stack & Skills — Technology display widgets
+- Social & Activity — Blog post feeds, activity feeds
+- Music, Media & Lifestyle — Spotify-style, gaming, streaming cards
+- Achievements & Trophies — Trophy showcases, visitor badges
+- Badges & Icons — Shields.io, simple-icons, badgen
+- Templates & Inspiration — Ready-to-use README layouts
 
 ## Featured Tools
 
@@ -25,40 +25,70 @@ A curated collection of 50+ tools for creating stunning GitHub profile READMEs. 
 | readme-typing-svg | Animation | 6k+ |
 | github-profile-trophy | Achievements | 5k+ |
 | spotify-github-profile | Music | 1k+ |
-| coolreadme.xyz | Cards | 15+ card types |
+| coolreadme.xyz | Cards | 23+ card types |
 
-## coolreadme.xyz Card Types
+## coolreadme.xyz — 23+ Card Types
 
-coolreadme.xyz is a free card generator with 15+ card types:
+coolreadme.xyz is a free, open-source card generator. No signup. Embed any card as a markdown image URL.
 
-- **Profile cards:** Cinematic, Hacker, Avatar styles
-- **Streaming cards:** Netflix (hero, continue watching, top 10), YouTube (video, shorts, channel), Twitch (stream, compact, clip)
-- **Social cards:** X/Twitter (tweet with engagement metrics)
-- **AI cards:** AI Identity (Claude, GPT, Cursor, Gemini, Grok)
-- **Media cards:** Now Listening (Spotify-style), Gaming, Steam (library, store, achievement)
-- **Content cards:** Article (blog/dev.to style), Docs (npm/package style), Social (multi-platform)
+### Entertainment
+- **Netflix card** (`/api/netflix-card`) — Now watching card. Styles: `classic`, `slim`, `compact`. Params: title, synopsis, cast, genre, rating, match, season, episode, quality, progress, img, style
+- **YouTube card** (`/api/youtube-card`) — Video card. Styles: `default`, `shorts`, `slim`. Params: title, channel, subscribers, views, likes, duration, img, verified, style
+- **YouTube channel** (`/api/youtube-channel`) — Channel stats card
+- **Twitch card** (`/api/twitch-card`) — Stream/clip status. Styles: `stream`, `compact`, `clip`. Params: streamer, game, title, viewers, uptime, tags, img, verified, partner, style
 
-All cards are embeddable as markdown image tags. No signup required.
+### Music & Lifestyle
+- **Now Listening** (`/api/now-listening`) — Spotify-style music widget. Styles: `spotify`, `dark`. Params: song, artist, style
+- **Cat card** (`/api/cat-card`) — GitHub streak tracker with cat evolution. Stages: SEED (0d), SPROUT (4d), GRIND (10d), STREAK (20d), GOD (30d+). Params: user, streak, longest, total
+- **Dog card** (`/api/dog-card`) — GitHub streak tracker with dog breed evolution. Breeds: Smol Pug (0d), Corgi (4d), Golden Retriever (10d), Winter Wolf/Husky (20d), Alpha Doge (30d+). Params: user, streak, longest, total
+
+### Gaming
+- **Steam card** (`/api/steam-card`) — Gaming library card. Styles: `default`, `compact`, `slim`. Params: game, genre, hours, achievements, lastPlayed, reviews, img, style
+- **Gaming card** (`/api/gaming`) — Generic gaming status. Params: game, platform, rank, hours, genre, style, img
+
+### Social Media
+- **X/Twitter card** (`/api/x-card`) — Tweet card. Styles: `default`, `compact`, `thread`. Themes: `dark`, `dim`, `light`. Params: user, handle, content, verified, likes, retweets, views, style, theme
+- **Instagram card** (`/api/instagram-card`) — Instagram post style. Params: title, sub, user, img, skills (shown as hashtags)
+- **TikTok card** (`/api/tiktok-card`) — TikTok video style with engagement. Params: title, sub, user, img, skills (shown as hashtags)
+
+### Profile & Identity
+- **Avatar card** (`/api/avatar-card`) — GitHub avatar on gradient. Params: user, status, focus, theme
+- **Hacker card** (`/api/hacker`) — Terminal aesthetic. Params: user, status, accent
+- **Cinematic card** (`/api/cinematic`) — Dark atmospheric. Params: user, status, focus, accent
+- **AI Identity card** (`/api/ai-card`) — AI tool badge. Tools: `claude`, `cursor`, `gemini`, `codex`, `grok`, `perplexity`. Params: tool, role, tagline
+
+### Project & Content
+- **Project card** (`/api/project-card`) — Project showcase. Params: name, desc, lang, stars, theme, img
+- **Tech DNA** (`/api/tech-dna`) — Tech stack visualization. Params: stack (comma-separated), label, theme
+- **Article card** (`/api/article-card`) — Blog post card. Params: title, excerpt, tag, author, theme, img
+- **Docs card** (`/api/docs-card`) — npm/package docs. Params: pkg, version, desc, install, theme
+- **Social card** (`/api/social-card`) — Multi-platform profile. Params: title, sub, user, style, img, skills
+
+### Fun
+- **Claude Code card** (`/api/claude-code-card-svg`) — Claude Code branded badge
 
 ## How to Use
 
-1. Browse categories in the README
-2. Copy markdown snippets
-3. Paste into your profile README
-4. Customize with your username
-
-## Quick Start
+All cards are plain GET requests returning `image/svg+xml` or `image/png`. No auth, no body, no side effects.
 
 ```markdown
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&theme=dark)
-![Typing](https://readme-typing-svg.demolab.com?lines=Hello;World&color=A78BFA)
-![Profile](https://coolreadme.xyz/api/cinematic?user=YOURNAME&status=Building&focus=Full%20Stack&accent=A78BFA)
+![Now Watching](https://coolreadme.xyz/api/netflix-card?title=Severance&season=2&episode=Episode+9&genre=Sci-Fi&match=98&quality=4K&style=classic)
+
+![Now Listening](https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&artist=Kendrick+Lamar&style=spotify)
+
+![AI Badge](https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents)
+
+![Streak](https://coolreadme.xyz/api/dog-card?user=YOURNAME&streak=22)
 ```
 
-## Links
+Customize params in the URL, paste as `![label](url)` in any markdown file.
 
-- Repository: https://github.com/yerdaulet-damir/awesome-github-readme
-- Card Generator: https://coolreadme.xyz
+## Quick Links
+
+- Browse & generate: https://coolreadme.xyz/generator
+- All templates: https://coolreadme.xyz/templates
+- API reference: https://coolreadme.xyz/llms.txt
+- This collection: https://github.com/yerdaulet-damir/awesome-github-readme
 - Contribute: See CONTRIBUTING.md
 
 ## License

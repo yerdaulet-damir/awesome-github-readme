@@ -1,44 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=AWESOME%20GITHUB%20README&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20definitive%20collection%20of%20profile%20tools%2C%20templates%20%26%20inspiration&descSize=14&descAlignY=55" />
+# awesome-github-readme
+
+### The definitive collection of GitHub profile README tools, templates & inspiration.
 
 [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/awesome-github-readme?style=for-the-badge&logo=github&color=FFD700&labelColor=0a0a0a)](https://github.com/yerdaulet-damir/awesome-github-readme/stargazers)
 [![Forks](https://img.shields.io/github/forks/yerdaulet-damir/awesome-github-readme?style=for-the-badge&logo=github&color=00FF88&labelColor=0a0a0a)](https://github.com/yerdaulet-damir/awesome-github-readme/network/members)
 [![Contributors](https://img.shields.io/github/contributors/yerdaulet-damir/awesome-github-readme?style=for-the-badge&color=A78BFA&labelColor=0a0a0a)](CONTRIBUTING.md)
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=50%2B+Tools+for+Your+GitHub+Profile;Stats%2C+Cards%2C+Animations%2C+Widgets+%26+More;Curated+%26+Updated+Weekly" />
+![Typing](https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=50%2B+Tools+for+Your+GitHub+Profile;Stats%2C+Cards%2C+Animations%2C+Widgets+%26+More;Curated+%26+Updated+Weekly)
 
 <br/>
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&season=2&episode=Episode+9&synopsis=Employees+at+Lumon+Industries+have+their+work+and+personal+memories+surgically+divided&genre=Sci-Fi+%C2%B7+Thriller&match=98&quality=4K&style=classic" alt="Netflix card" />
+      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&amp;season=2&amp;episode=Episode+9&amp;synopsis=Employees+at+Lumon+Industries+have+their+work+and+personal+memories+surgically+divided&amp;genre=Sci-Fi+%C2%B7+Thriller&amp;match=98&amp;quality=4K&amp;style=classic&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FRb7sga832Cyqvafd7CqOzbwdK4.jpg" alt="Netflix card" />
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&artist=Kendrick+Lamar&style=spotify" alt="Now Listening card" />
+      <img src="https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&amp;artist=Kendrick+Lamar&amp;style=spotify" alt="Now Listening card" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/steam-card?game=Elden+Ring&genre=Action+RPG&hours=312&achievements=87%25&lastPlayed=Today&reviews=Overwhelmingly+Positive&style=default" alt="Steam card" />
+      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" />
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents" alt="AI Identity card" />
+      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&amp;role=user&amp;tagline=building+with+agents" alt="AI Identity card" />
     </td>
   </tr>
 </table>
 
 > All cards above render live from **[coolreadme.xyz](https://coolreadme.xyz)** — paste a URL in your README and it just works.
 
+<br/>
+
+<img src="https://coolreadme.xyz/api/dog-card?user=torvalds&amp;streak=22&amp;longest=48&amp;total=9800" width="70%" alt="Winter Wolf streak card" />
+
+<sub>streak cards evolve with your commit streak &nbsp;·&nbsp; 0 → 4 → 10 → 20 → 30 days 🐾</sub>
+
 </div>
+
+---
+
+## What is This?
+
+**Awesome GitHub README** is a curated, weekly-updated collection of 50+ free tools for building stunning GitHub profile READMEs — cards, stats widgets, animations, streak trackers, music widgets, and more. Every tool is hand-picked and categorized.
+
+Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, open-source card generator with 23+ embeddable card types: Netflix, YouTube, Twitch, Steam, X/Twitter, Spotify-style now-listening, AI identity badges, GitHub streak cards, Instagram, TikTok, and more. No signup. Paste a URL, get a card.
 
 ---
 
 ## Table of Contents
 
+- [What is This?](#what-is-this)
 - [Featured Profiles](#-featured-profiles)
-- [Profile Card Generators](#-profile-card-generators)
+- [Card Generators & Gallery](#-card-generators--gallery)
 - [Stats & Metrics](#-stats--metrics)
 - [Animations & Effects](#-animations--effects)
 - [Tech Stack & Skills](#-tech-stack--skills)
@@ -66,10 +83,10 @@ Real profiles. Rendered live. See what's possible.
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/hacker?user=yerdaulet-damir&status=Building+AI+agents&accent=A78BFA" alt="Hacker card" />
+      <img src="https://coolreadme.xyz/api/hacker?user=yerdaulet-damir&amp;status=Building+AI+agents&amp;accent=A78BFA" alt="Hacker card" />
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+agentic+workflows" alt="AI card" />
+      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&amp;role=user&amp;tagline=building+agentic+workflows" alt="AI card" />
     </td>
   </tr>
 </table>
@@ -96,7 +113,7 @@ Real profiles. Rendered live. See what's possible.
 
 > *Creator of blog-post-workflow. Google Developer Expert.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=500&lines=Software+Engineer;Google+Developer+Expert;Open+Source+Maintainer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=500&amp;lines=Software+Engineer;Google+Developer+Expert;Open+Source+Maintainer" />
 
 **Tools used:** `readme-typing-svg` · `blog-post-workflow` · `github-readme-stats`
 
@@ -149,7 +166,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
-## 🎴 Profile Card Generators
+## 🎴 Card Generators & Gallery
 
 Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 
@@ -169,27 +186,67 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&season=2&episode=Episode+9&synopsis=Employees+at+Lumon+Industries+have+their+work+memories+divided&genre=Sci-Fi+Thriller&match=98&quality=4K&style=classic" alt="Netflix card" /><br/>
-      <code>/api/netflix-card</code>
+      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&amp;season=2&amp;episode=Episode+9&amp;synopsis=Employees+at+Lumon+Industries+have+their+work+memories+divided&amp;genre=Sci-Fi+Thriller&amp;match=98&amp;quality=4K&amp;style=classic&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FRb7sga832Cyqvafd7CqOzbwdK4.jpg" alt="Netflix hero" /><br/>
+      <code>style=classic</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/youtube-card?title=I+built+this+in+24+hours&channel=CoolDev&subscribers=12K&views=48K&likes=2.1K&duration=14%3A32&style=default" alt="YouTube card" /><br/>
+      <img src="https://coolreadme.xyz/api/netflix-card?title=The+Bear&amp;episode=S3+E8&amp;genre=Drama&amp;match=99&amp;quality=HD&amp;rating=TV-MA&amp;style=slim&amp;img=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw500%2FkmKOXOC6txne2tXjcnZPHNtsY9E.jpg" alt="Netflix slim" /><br/>
+      <code>style=slim</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/youtube-card?title=Why+I+Quit+Using+Next.js&amp;channel=Theo&amp;subscribers=520K&amp;views=248K&amp;likes=12.1K&amp;duration=18%3A42&amp;verified=true&amp;style=default&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FmMQCLQTky34%2Fmaxresdefault.jpg" alt="YouTube card" /><br/>
       <code>/api/youtube-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/youtube-card?title=JavaScript+in+100+Seconds&amp;channel=Fireship&amp;subscribers=2.8M&amp;views=1.4M&amp;likes=87K&amp;duration=2%3A32&amp;verified=true&amp;style=slim&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="YouTube slim" /><br/>
+      <code>style=slim</code>
     </td>
   </tr>
 </table>
 
-**Music & Lifestyle**
+**Social Media**
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&artist=Kendrick+Lamar&style=spotify" alt="Now Listening" /><br/>
+      <img src="https://coolreadme.xyz/api/instagram-card?title=just+shipped+v2.0&amp;sub=open+source+now+%F0%9F%9A%80&amp;user=cooldev&amp;skills=TypeScript,React,Next.js,Open+Source&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzQnBQ4tB3ZA%2Fmaxresdefault.jpg" alt="Instagram card" /><br/>
+      <code>/api/instagram-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/tiktok-card?title=built+this+in+48h&amp;sub=open+source+%E2%9C%85&amp;user=cooldev&amp;skills=TypeScript,React,Node.js,AI&amp;img=https%3A%2F%2Fimg.youtube.com%2Fvi%2FDHjqpvDnNGE%2Fmaxresdefault.jpg" alt="TikTok card" /><br/>
+      <code>/api/tiktok-card</code>
+    </td>
+  </tr>
+</table>
+
+**X / Twitter**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/x-card?user=Guillermo+Rauch&amp;handle=rauchg&amp;content=The+future+of+web+dev+is+at+the+edge.%0AVercel+just+shipped+something+that+changes+everything.&amp;likes=8.4k&amp;retweets=1.2k&amp;views=241K&amp;verified=true&amp;style=default&amp;theme=dark" alt="X default" /><br/>
+      <code>style=default</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/x-card?user=Dan+Abramov&amp;handle=dan_abramov&amp;content=Hot+take%3A+the+best+code+is+the+code+you+don%27t+write.%0A%0AEvery+line+is+a+liability.+Every+abstraction+costs+something.&amp;likes=12.1k&amp;retweets=3.4k&amp;views=1.1M&amp;verified=true&amp;style=thread&amp;theme=dark" alt="X thread" /><br/>
+      <code>style=thread</code>
+    </td>
+  </tr>
+</table>
+
+**Music**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&amp;artist=Kendrick+Lamar&amp;style=spotify" alt="Now Listening" /><br/>
       <code>/api/now-listening</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/cat-card?user=cooldev" alt="Cat card" /><br/>
-      <code>/api/cat-card</code>
+      <img src="https://coolreadme.xyz/api/now-listening?song=Blinding+Lights&amp;artist=The+Weeknd&amp;style=dark" alt="Now Listening dark" /><br/>
+      <code>style=dark</code>
     </td>
   </tr>
 </table>
@@ -199,12 +256,37 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/steam-card?game=Elden+Ring&genre=Action+RPG&hours=312&achievements=87%25&lastPlayed=Today&reviews=Overwhelmingly+Positive&style=default" alt="Steam card" /><br/>
+      <img src="https://coolreadme.xyz/api/steam-card?game=Elden+Ring&amp;genre=Action+RPG&amp;hours=312&amp;achievements=87%25&amp;lastPlayed=Today&amp;reviews=Overwhelmingly+Positive&amp;style=default" alt="Steam card" /><br/>
       <code>/api/steam-card</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/twitch-card?streamer=cooldev&game=Coding+Live&title=Building+open+source+live&viewers=214&uptime=2h+34m&style=default" alt="Twitch card" /><br/>
-      <code>/api/twitch-card</code>
+      <img src="https://coolreadme.xyz/api/twitch-card?streamer=xQc&amp;game=GTA+V&amp;title=insane+run+tonight&amp;viewers=84.2K&amp;uptime=4h+12m&amp;verified=true&amp;partner=true&amp;style=stream&amp;img=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fxqc-profile_image-9298dca608632101-600x600.jpeg" alt="Twitch stream" /><br/>
+      <code>style=stream</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/twitch-card?streamer=xQc&amp;game=GTA+V&amp;title=insane+clutch+play&amp;style=clip&amp;duration=0%3A34&amp;clipper=Snipz&amp;clipViews=2.1M+views&amp;verified=true&amp;partner=true&amp;img=https%3A%2F%2Fstatic-cdn.jtvnw.net%2Fjtv_user_pictures%2Fxqc-profile_image-9298dca608632101-600x600.jpeg" alt="Twitch clip" /><br/>
+      <code>style=clip</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/gaming?game=Elden+Ring&amp;platform=PC&amp;rank=Level+150&amp;hours=312&amp;genre=Action+RPG&amp;style=dark" alt="Gaming card" /><br/>
+      <code>/api/gaming</code>
+    </td>
+  </tr>
+</table>
+
+**Streak Cards — GOD Mode** (unlock with 30+ day streak)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/cat-card?user=torvalds&amp;streak=35&amp;longest=72&amp;total=18500" width="560" alt="Cat GOD mode" /><br/>
+      <code>/api/cat-card</code> · streak=35 · 👑 GOD mode
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/dog-card?user=torvalds&amp;streak=35&amp;longest=72&amp;total=18500" width="560" alt="Dog GOD mode" /><br/>
+      <code>/api/dog-card</code> · streak=35 · 👑 GOD mode
     </td>
   </tr>
 </table>
@@ -214,42 +296,27 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/hacker?user=cooldev&status=Currently+shipping&accent=00FF88" alt="Hacker card" /><br/>
+      <img src="https://coolreadme.xyz/api/hacker?user=cooldev&amp;status=Currently+shipping&amp;accent=00FF88" alt="Hacker card" /><br/>
       <code>/api/hacker</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/avatar-card?user=torvalds&status=Open+source+forever&focus=Linux+kernel&theme=dark" alt="Avatar card" /><br/>
+      <img src="https://coolreadme.xyz/api/avatar-card?user=torvalds&amp;status=Open+source+forever&amp;focus=Linux+kernel&amp;theme=dark" alt="Avatar card" /><br/>
       <code>/api/avatar-card</code>
     </td>
   </tr>
 </table>
 
-**AI & Project**
+**AI**
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents" alt="AI Identity" /><br/>
+      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&amp;role=user&amp;tagline=building+with+agents" alt="AI Identity" /><br/>
       <code>/api/ai-card</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/project-card?name=awesome-github-readme&desc=Curated+cards+and+tools+for+stunning+GitHub+profiles&lang=TypeScript&stars=420&theme=dark" alt="Project card" /><br/>
-      <code>/api/project-card</code>
-    </td>
-  </tr>
-</table>
-
-**Social**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://coolreadme.xyz/api/x-card?user=cooldev&handle=cooldev&content=Just+shipped+my+new+open+source+project.+Check+it+out%21&likes=142&retweets=38&views=5.2K&verified=true" alt="X card" /><br/>
-      <code>/api/x-card</code>
-    </td>
-    <td align="center">
-      <img src="https://coolreadme.xyz/api/tech-dna?stack=Next.js,TypeScript,React,Tailwind,Rust&label=My+Stack" alt="Tech DNA" /><br/>
-      <code>/api/tech-dna</code>
+      <img src="https://coolreadme.xyz/api/ai-card?tool=cursor&amp;role=user&amp;tagline=vibe+coding+in+prod" alt="Cursor AI" /><br/>
+      <code>tool=cursor</code>
     </td>
   </tr>
 </table>
@@ -427,7 +494,7 @@ Found a new tool? Have a cool profile? **Three ways to contribute:**
 
 If this helped you, help us reach more developers:
 
-<a href="https://twitter.com/intent/tweet?text=Found%20this%20awesome%20collection%20of%2050%2B%20GitHub%20README%20tools%20%E2%80%94%20stats%2C%20cards%2C%20animations%2C%20and%20more.%20%F0%9F%94%A5&url=https%3A%2F%2Fgithub.com%2Fyerdaulet-damir%2Fawesome-github-readme&hashtags=github,readme,opensource"><img src="https://img.shields.io/badge/Share%20on-X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://twitter.com/intent/tweet?text=Found%20this%20awesome%20collection%20of%2050%2B%20GitHub%20README%20tools%20%E2%80%94%20stats%2C%20cards%2C%20animations%2C%20and%20more.%20%F0%9F%94%A5&amp;url=https%3A%2F%2Fgithub.com%2Fyerdaulet-damir%2Fawesome-github-readme&amp;hashtags=github,readme,opensource"><img src="https://img.shields.io/badge/Share%20on-X%20%2F%20Twitter-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
 
 ---
 
@@ -435,7 +502,15 @@ If this helped you, help us reach more developers:
 
 **If this helped you, give it a star! ⭐**
 
-[![Star History](https://api.star-history.com/svg?repos=yerdaulet-damir/awesome-github-readme&type=Date)](https://star-history.com/#yerdaulet-damir/awesome-github-readme&Date)
+## Star History
+
+<a href="https://www.star-history.com/?repos=yerdaulet-damir%2Fawesome-github-readme&amp;type=date&amp;legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=yerdaulet-damir/awesome-github-readme&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=yerdaulet-damir/awesome-github-readme&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=yerdaulet-damir/awesome-github-readme&amp;type=date&amp;legend=top-left" />
+ </picture>
+</a>
 
 ---
 
