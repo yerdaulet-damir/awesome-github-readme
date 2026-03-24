@@ -8,15 +8,30 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=50%2B+Tools+for+Your+GitHub+Profile;Stats%2C+Cards%2C+Animations%2C+Widgets+%26+More;Curated+%26+Updated+Weekly" />
 
----
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&season=2&episode=Episode+9&synopsis=Employees+at+Lumon+Industries+have+their+work+and+personal+memories+surgically+divided&genre=Sci-Fi+%C2%B7+Thriller&match=98&quality=4K&style=classic" alt="Netflix card" />
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&artist=Kendrick+Lamar&style=spotify" alt="Now Listening card" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/steam-card?game=Elden+Ring&genre=Action+RPG&hours=312&achievements=87%25&lastPlayed=Today&reviews=Overwhelmingly+Positive&style=default" alt="Steam card" />
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents" alt="AI Identity card" />
+    </td>
+  </tr>
+</table>
+
+> All cards above render live from **[coolreadme.xyz](https://coolreadme.xyz)** — paste a URL in your README and it just works.
 
 </div>
-
-## What is This?
-
-**Awesome GitHub README** is the definitive collection of tools, generators, templates, and inspiration for creating stunning GitHub profile READMEs. Everything you need, one place, constantly updated.
-
-> **Why star this?** We track every new README tool so you don't have to. New tools added weekly.
 
 ---
 
@@ -48,7 +63,16 @@ Real profiles. Rendered live. See what's possible.
 
 > *Full-stack AI engineer. Building agentic workflows.*
 
-![Profile](https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&status=Building%20AI%20agents&focus=Full%20Stack&accent=A78BFA)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/hacker?user=yerdaulet-damir&status=Building+AI+agents&accent=A78BFA" alt="Hacker card" />
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+agentic+workflows" alt="AI card" />
+    </td>
+  </tr>
+</table>
 
 **Tools used:** `coolreadme.xyz` · `capsule-render` · `readme-typing-svg` · `github-readme-stats` · `github-contribution-snake`
 
@@ -131,36 +155,106 @@ Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 15+ card types: Netflix, YouTube, X/Twitter, AI Identity, Cinematic, Hacker, Avatar, Steam, Twitch, and more. Free, no signup. |
+| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 23+ card types: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, Hacker, Avatar, and more. Free, no signup. |
 | [**github-profile-summary**](https://github.com/tipsy/github-profile-summary) | ![Stars](https://img.shields.io/github/stars/tipsy/github-profile-summary?style=social) | Visual summary with activity graphs |
 | [**github-profile-readme-generator**](https://github.com/rahuldkjain/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=social) | Web-based generator with templates |
 | [**profile-readme-generator**](https://github.com/arturssmirnovs/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/arturssmirnovs/github-profile-readme-generator?style=social) | Another web generator |
 
-### coolreadme.xyz Card Showcase
+### coolreadme.xyz — 23 Card Types
 
-**Profile cards** — Cinematic, Hacker, Avatar styles:
+Everything below is a live image from a URL. **[Generate yours →](https://coolreadme.xyz/generator)**
 
-![Cinematic](https://coolreadme.xyz/api/cinematic?user=YOURNAME&status=Building&focus=Full%20Stack&accent=A78BFA)
+**Entertainment**
 
-![Hacker](https://coolreadme.xyz/api/hacker?user=YOURNAME&status=Shipping%20code&accent=00FF88)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/netflix-card?title=Severance&season=2&episode=Episode+9&synopsis=Employees+at+Lumon+Industries+have+their+work+memories+divided&genre=Sci-Fi+Thriller&match=98&quality=4K&style=classic" alt="Netflix card" /><br/>
+      <code>/api/netflix-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/youtube-card?title=I+built+this+in+24+hours&channel=CoolDev&subscribers=12K&views=48K&likes=2.1K&duration=14%3A32&style=default" alt="YouTube card" /><br/>
+      <code>/api/youtube-card</code>
+    </td>
+  </tr>
+</table>
 
-**Streaming & social cards** — Netflix, YouTube, X/Twitter:
+**Music & Lifestyle**
 
-![Netflix](https://coolreadme.xyz/api/netflix-card?style=hero&title=My%20Side%20Project&synopsis=A%20full-stack%20app%20that%20does%20cool%20things&genre=TypeScript%20%C2%B7%20React%20%C2%B7%20Node&rating=PG-dev&match=98)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/now-listening?song=Not+Like+Us&artist=Kendrick+Lamar&style=spotify" alt="Now Listening" /><br/>
+      <code>/api/now-listening</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/cat-card?user=cooldev" alt="Cat card" /><br/>
+      <code>/api/cat-card</code>
+    </td>
+  </tr>
+</table>
 
-![YouTube](https://coolreadme.xyz/api/youtube-card?title=How%20I%20Built%20This&channel=YOURNAME&subscribers=1.2K&views=5.4K&likes=320&duration=12:34&verified=true)
+**Gaming**
 
-![X Card](https://coolreadme.xyz/api/x-card?user=Your%20Name&handle=yourhandle&content=Just%20shipped%20my%20new%20open%20source%20project.%20Check%20it%20out!&likes=142&retweets=38&views=5.2K&verified=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/steam-card?game=Elden+Ring&genre=Action+RPG&hours=312&achievements=87%25&lastPlayed=Today&reviews=Overwhelmingly+Positive&style=default" alt="Steam card" /><br/>
+      <code>/api/steam-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/twitch-card?streamer=cooldev&game=Coding+Live&title=Building+open+source+live&viewers=214&uptime=2h+34m&style=default" alt="Twitch card" /><br/>
+      <code>/api/twitch-card</code>
+    </td>
+  </tr>
+</table>
 
-**AI Identity card** — Show your AI stack:
+**Profile & Identity**
 
-![AI Card](https://coolreadme.xyz/api/ai-card?tool=claude&user=YOURNAME&role=AI%20Engineer&tagline=Building%20with%20LLMs&query=How%20do%20I%20build%20agents?)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/hacker?user=cooldev&status=Currently+shipping&accent=00FF88" alt="Hacker card" /><br/>
+      <code>/api/hacker</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/avatar-card?user=torvalds&status=Open+source+forever&focus=Linux+kernel&theme=dark" alt="Avatar card" /><br/>
+      <code>/api/avatar-card</code>
+    </td>
+  </tr>
+</table>
 
-**Now Listening:**
+**AI & Project**
 
-![Now Listening](https://coolreadme.xyz/api/now-listening?song=Starboy&artist=The%20Weeknd&style=dark)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/ai-card?tool=claude&role=user&tagline=building+with+agents" alt="AI Identity" /><br/>
+      <code>/api/ai-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/project-card?name=awesome-github-readme&desc=Curated+cards+and+tools+for+stunning+GitHub+profiles&lang=TypeScript&stars=420&theme=dark" alt="Project card" /><br/>
+      <code>/api/project-card</code>
+    </td>
+  </tr>
+</table>
 
-> **[Generate yours →](https://coolreadme.xyz)** Free. No signup. Just paste the URL into your README.
+**Social**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/x-card?user=cooldev&handle=cooldev&content=Just+shipped+my+new+open+source+project.+Check+it+out%21&likes=142&retweets=38&views=5.2K&verified=true" alt="X card" /><br/>
+      <code>/api/x-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/tech-dna?stack=Next.js,TypeScript,React,Tailwind,Rust&label=My+Stack" alt="Tech DNA" /><br/>
+      <code>/api/tech-dna</code>
+    </td>
+  </tr>
+</table>
+
+> Browse all 23 card types with live previews → **[coolreadme.xyz/templates](https://coolreadme.xyz/templates)**
 
 ---
 
@@ -238,16 +332,16 @@ Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 |------|-------|-------------|
 | [**spotify-github-profile**](https://github.com/kittinan/spotify-github-profile) | ![Stars](https://img.shields.io/github/stars/kittinan/spotify-github-profile?style=social) | Now playing Spotify card. Classic. |
 | [**novatorem**](https://github.com/novatorem/novatorem) | ![Stars](https://img.shields.io/github/stars/novatorem/novatorem?style=social) | Spotify widget alternative |
-| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | Now Listening, Gaming, Steam, Twitch cards |
+| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | Now Listening, Gaming, Steam, Twitch, Netflix cards |
 
 ### Example
 
 ```markdown
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0a0a0a&border_color=A78BFA)](https://open.spotify.com)
 
-![Now Listening](https://coolreadme.xyz/api/now-listening?song=Blinding%20Lights&artist=The%20Weeknd&style=dark)
+![Now Listening](https://coolreadme.xyz/api/now-listening?song=Blinding+Lights&artist=The+Weeknd&style=dark)
 
-![Gaming](https://coolreadme.xyz/api/gaming?game=Elden%20Ring&platform=PC&rank=Level%20150&hours=200&genre=Action%20RPG&style=dark)
+![Gaming](https://coolreadme.xyz/api/gaming?game=Elden+Ring&platform=PC&rank=Level+150&hours=200&genre=Action+RPG&style=dark)
 ```
 
 ---
@@ -298,7 +392,7 @@ Ready-to-use templates in this repo:
 | [Full-Featured](templates/02-full-featured.md) | Stats, animations, snake |
 | [OSS Maintainer](templates/03-oss-maintainer.md) | Projects & sponsors |
 | [Creative](templates/04-creative-personal.md) | Gaming, music, personality |
-| [coolreadme Cards](templates/05-coolreadme-cards.md) | Cinematic cards: Netflix, AI, YouTube, Now Listening |
+| [coolreadme Cards](templates/05-coolreadme-cards.md) | Netflix, AI, YouTube, Now Listening, Steam |
 
 ### Quick Start
 
