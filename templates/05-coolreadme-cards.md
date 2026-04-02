@@ -1,6 +1,6 @@
-# coolreadme.xyz Cards Template
+# coolreadme.xyz Cards Template — Profile README
 
-Cinematic profile using cards from coolreadme.xyz. No signup, no config.
+Cinematic profile using cards from coolreadme.xyz. No signup, no config — paste a URL, get an animated card.
 
 ## Copy This
 
@@ -21,11 +21,11 @@ Cinematic profile using cards from coolreadme.xyz. No signup, no config.
 
 ## AI Stack
 
-![AI Card](https://coolreadme.xyz/api/ai-card?tool=claude&user=YOURNAME&role=AI%20Engineer&tagline=Building%20with%20LLMs&query=How%20do%20I%20build%20agents?)
+![AI Card](https://coolreadme.xyz/api/ai-card?tool=claude&user=YOURNAME&role=AI%20Engineer&tagline=Building%20with%20LLMs)
 
 ---
 
-## Latest Post
+## Latest Video / Post
 
 ![YouTube](https://coolreadme.xyz/api/youtube-card?title=Your%20Video%20Title&channel=YOURNAME&subscribers=1.2K&views=5.4K&likes=320&duration=12:34&verified=true)
 
@@ -34,6 +34,12 @@ Cinematic profile using cards from coolreadme.xyz. No signup, no config.
 ## Now Listening
 
 ![Now Listening](https://coolreadme.xyz/api/now-listening?song=Your%20Song&artist=Artist%20Name&style=dark)
+
+---
+
+## GitHub Streak
+
+![Cat Card](https://coolreadme.xyz/api/cat-card?user=YOURNAME&streak=STREAK&longest=LONGEST&total=TOTAL)
 
 ---
 
@@ -54,26 +60,28 @@ Cinematic profile using cards from coolreadme.xyz. No signup, no config.
 
 | Tool | Purpose |
 |------|---------|
-| [coolreadme.xyz](https://coolreadme.xyz) | Cinematic, Netflix, AI, YouTube, Now Listening cards |
+| [coolreadme.xyz](https://coolreadme.xyz) | Cinematic, Netflix, AI, YouTube, Now Listening, streak cards |
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Stats card |
 
-## Card Types Available
+## All Profile Card Types
 
-| Card | Endpoint | Use For |
-|------|----------|---------|
-| Cinematic | `/api/cinematic` | Profile hero |
-| Hacker | `/api/hacker` | Terminal-style profile |
-| Avatar | `/api/avatar-card` | GitHub avatar card |
-| Netflix | `/api/netflix-card` | Project showcase |
-| YouTube | `/api/youtube-card` | Content/video showcase |
-| X / Twitter | `/api/x-card` | Pinned tweet style |
-| AI Identity | `/api/ai-card` | AI stack showcase |
-| Now Listening | `/api/now-listening` | Music card |
-| Gaming | `/api/gaming` | Gaming stats |
+| Card | Endpoint | Params | Use For |
+|------|----------|--------|---------|
+| Cinematic | `/api/cinematic` | `user`, `status`, `focus`, `accent` | Profile hero |
+| Hacker | `/api/hacker` | `user`, `status`, `accent` | Terminal-style profile |
+| Avatar | `/api/avatar-card` | `user`, `status`, `focus`, `theme` | GitHub avatar banner |
+| Netflix | `/api/netflix-card` | `title`, `synopsis`, `genre`, `style` | Project showcase |
+| YouTube | `/api/youtube-card` | `title`, `channel`, `views`, `style` | Video/content showcase |
+| X / Twitter | `/api/x-card` | `user`, `handle`, `content`, `theme` | Pinned tweet style |
+| AI Identity | `/api/ai-card` | `tool`, `role`, `tagline`, `user` | AI stack showcase |
+| Now Listening | `/api/now-listening` | `song`, `artist`, `style` | Music card |
+| Steam | `/api/steam-card` | `game`, `hours`, `achievements` | Gaming stats |
+| Twitch | `/api/twitch-card` | `streamer`, `game`, `viewers` | Stream card |
+| Cat / Dog | `/api/cat-card`, `/api/dog-card` | `user`, `streak`, `longest`, `total` | Streak card with pet |
 
 ## Best For
 
-- Developers who want a cinematic, visual profile
-- AI/ML engineers
-- Content creators
+- Developers wanting a cinematic, visual profile
+- AI/ML engineers showing their stack
+- Content creators (YouTube, streams)
 - Anyone tired of plain badge walls

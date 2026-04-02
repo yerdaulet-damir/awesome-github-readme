@@ -56,6 +56,7 @@ Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, o
 - [What is This?](#what-is-this)
 - [Featured Profiles](#-featured-profiles)
 - [Card Generators & Gallery](#-card-generators--gallery)
+- [Notable Projects](#-notable-projects-using-coolreadme-cards)
 - [Stats & Metrics](#-stats--metrics)
 - [Animations & Effects](#-animations--effects)
 - [Tech Stack & Skills](#-tech-stack--skills)
@@ -172,12 +173,12 @@ Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 23+ card types: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, Hacker, Avatar, and more. Free, no signup. |
+| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 26+ card types: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, npm Package, Docs, Article, Hacker, Avatar, and more. Free, no signup. |
 | [**github-profile-summary**](https://github.com/tipsy/github-profile-summary) | ![Stars](https://img.shields.io/github/stars/tipsy/github-profile-summary?style=social) | Visual summary with activity graphs |
 | [**github-profile-readme-generator**](https://github.com/rahuldkjain/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=social) | Web-based generator with templates |
 | [**profile-readme-generator**](https://github.com/arturssmirnovs/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/arturssmirnovs/github-profile-readme-generator?style=social) | Another web generator |
 
-### coolreadme.xyz — 23 Card Types
+### coolreadme.xyz — 26 Card Types
 
 Everything below is a live image from a URL. **[Generate yours →](https://coolreadme.xyz/generator)**
 
@@ -321,7 +322,66 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
   </tr>
 </table>
 
-> Browse all 23 card types with live previews → **[coolreadme.xyz/templates](https://coolreadme.xyz/templates)**
+**Editorial — for project READMEs**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/npm-card?pkg=teleping" alt="npm Package card" /><br/>
+      <code>/api/npm-card</code> · live weekly downloads
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/docs-card?pkg=teleping&amp;version=0.2.1&amp;desc=Telegram+alerts+for+vibe+coders.+1+import%2C+5+functions%2C+zero+deps.&amp;install=npm+install+teleping&amp;theme=langchain" alt="Docs card langchain" /><br/>
+      <code>/api/docs-card</code> · <code>theme=langchain</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/docs-card?pkg=my-sdk&amp;version=2.0.0&amp;desc=A+minimal+TypeScript+SDK+for+building+fast+APIs&amp;install=npm+install+my-sdk&amp;theme=dark" alt="Docs card dark" /><br/>
+      <code>/api/docs-card</code> · <code>theme=dark</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/article-card?title=Building+a+compiler+in+Rust&amp;excerpt=A+weekend+deep+dive+into+lexers%2C+parsers%2C+and+why+I+now+respect+compiler+engineers.&amp;tag=Tutorial&amp;author=karpathy&amp;theme=medium" alt="Article card medium" /><br/>
+      <code>/api/article-card</code> · <code>theme=medium</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/article-card?title=Learn+In+Public&amp;excerpt=The+fastest+way+to+learn+anything+is+to+build+it+and+show+your+work+as+you+go.&amp;tag=Philosophy&amp;author=sw-yx&amp;theme=dark" alt="Article card dark" /><br/>
+      <code>/api/article-card</code> · <code>theme=dark</code>
+    </td>
+  </tr>
+</table>
+
+> Browse all 26 card types with live previews → **[coolreadme.xyz/templates](https://coolreadme.xyz/templates)**
+
+---
+
+## 🚀 Notable Projects Using coolreadme Cards
+
+Real open-source projects embedding coolreadme cards in their READMEs.
+
+---
+
+### [teleping](https://github.com/yerdaulet-damir/teleping) — `npm install teleping`
+
+> *Like `console.log` but it arrives on your phone. Telegram alerts for solo builders — 1 import, 5 functions, zero deps.*
+
+[![teleping docs card](https://coolreadme.xyz/api/docs-card?pkg=teleping&version=0.2.1&desc=Telegram+alerts+for+vibe+coders.+Know+what+broke+and+what+shipped+%E2%80%94+the+moment+it+happens.&install=npm+install+teleping&theme=langchain)](https://npmjs.com/package/teleping)
+
+[![npm card](https://coolreadme.xyz/api/npm-card?pkg=teleping)](https://npmjs.com/package/teleping)
+
+**Card types used:** `docs-card` · `npm-card`
+
+```markdown
+[![teleping](https://coolreadme.xyz/api/docs-card?pkg=teleping&version=0.2.1&desc=Telegram+alerts+for+vibe+coders&install=npm+install+teleping&theme=langchain)](https://npmjs.com/package/teleping)
+```
+
+> **Using coolreadme in your project README?** [Open a PR](CONTRIBUTING.md) to be listed here.
 
 ---
 
@@ -459,7 +519,8 @@ Ready-to-use templates in this repo:
 | [Full-Featured](templates/02-full-featured.md) | Stats, animations, snake |
 | [OSS Maintainer](templates/03-oss-maintainer.md) | Projects & sponsors |
 | [Creative](templates/04-creative-personal.md) | Gaming, music, personality |
-| [coolreadme Cards](templates/05-coolreadme-cards.md) | Netflix, AI, YouTube, Now Listening, Steam |
+| [coolreadme Cards](templates/05-coolreadme-cards.md) | Profile cards: Cinematic, AI, Netflix, YouTube |
+| [Project README](templates/06-project-readme.md) | npm package / library README with docs-card, npm-card, article-card |
 
 ### Quick Start
 
