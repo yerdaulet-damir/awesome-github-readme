@@ -320,6 +320,12 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
       <code>tool=cursor</code>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://coolreadme.xyz/api/claude-code-card-svg?user=The+Builder&amp;handle=torvalds&amp;model=claude-opus-4-6&amp;command=claude+%22ship+it%22&amp;branch=main&amp;workdir=linux" alt="Claude Code Terminal card" /><br/>
+      <code>/api/claude-code-card-svg</code> · animated terminal · live GitHub streak data
+    </td>
+  </tr>
 </table>
 
 **Editorial — for project READMEs**
