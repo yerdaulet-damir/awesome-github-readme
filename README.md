@@ -57,6 +57,13 @@ Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, o
 - [Featured Profiles](#-featured-profiles)
 - [Card Generators & Gallery](#-card-generators--gallery)
 - [Notable Projects](#-notable-projects-using-coolreadme-cards)
+- [Pet Streak Cards](#-pet-streak-cards)
+- [Profile Cards](PROFILE-CARDS.md)
+- [GitHub Stats Card](GITHUB-STATS-CARD.md)
+- [GitHub Streak Card](GITHUB-STREAK-CARD.md)
+- [GitHub Profile README](GITHUB-PROFILE-README.md)
+- [Animated GitHub Cards](ANIMATED-GITHUB-CARDS.md)
+- [GitHub README Generator](GITHUB-README-GENERATOR.md)
 - [Stats & Metrics](#-stats--metrics)
 - [Animations & Effects](#-animations--effects)
 - [Tech Stack & Skills](#-tech-stack--skills)
@@ -277,7 +284,9 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
   </tr>
 </table>
 
-**Streak Pet Cards** — 5 animals, 9 evolution stages, one commit streak
+### 🐾 Pet Streak Cards
+
+5 animals, 9 evolution stages, one commit streak · [**See all stages & breeds →**](PET-CARDS.md)
 
 Your pet evolves as your streak grows. Start as a seed. Reach 365 days and transcend.
 
@@ -388,17 +397,27 @@ Your pet evolves as your streak grows. Start as a seed. Reach 365 days and trans
 > **All 5 pets evolve automatically from your real GitHub streak** — just use `?user=YOURUSERNAME` and skip the `streak=` param.
 > Customize with `breed=`, `accent=`, `bg=` · [**Build yours →**](https://coolreadme.xyz/generator)
 
-**Profile & Identity**
+**Profile & Identity** · [**See all styles & variants →**](PROFILE-CARDS.md)
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/hacker?user=cooldev&amp;status=Currently+shipping&amp;accent=00FF88" alt="Hacker card" /><br/>
-      <code>/api/hacker</code>
+      <img src="https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&amp;status=BUILDING+AI+AGENTS&amp;focus=Agentic+workflows+%26+open-source&amp;accent=%23A78BFA" alt="Cinematic card" /><br/>
+      <code>/api/cinematic</code>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/avatar-card?user=torvalds&amp;status=Open+source+forever&amp;focus=Linux+kernel&amp;theme=dark" alt="Avatar card" /><br/>
+      <img src="https://coolreadme.xyz/api/hacker?user=sindresorhus&amp;status=MAINTAINING+500%2B+PACKAGES&amp;accent=%2300FF88" alt="Hacker card" /><br/>
+      <code>/api/hacker</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/avatar-card?user=gaearon&amp;status=WRITING+RFC&amp;focus=React+Compiler+experiments&amp;theme=profile" alt="Avatar card" /><br/>
       <code>/api/avatar-card</code>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/streak-card?user=yerdaulet-damir&amp;theme=spotify" alt="Streak card" /><br/>
+      <code>/api/streak-card</code>
     </td>
   </tr>
 </table>
