@@ -47,7 +47,7 @@
 
 **Awesome GitHub README** is a curated, weekly-updated collection of 50+ free tools for building stunning GitHub profile READMEs — cards, stats widgets, animations, streak trackers, music widgets, and more. Every tool is hand-picked and categorized.
 
-Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, open-source card generator with 23+ embeddable card types: Netflix, YouTube, Twitch, Steam, X/Twitter, Spotify-style now-listening, AI identity badges, GitHub streak cards, Instagram, TikTok, and more. No signup. Paste a URL, get a card.
+Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, open-source card generator with 29+ embeddable card types: Netflix, YouTube, Twitch, Steam, X/Twitter, Spotify-style now-listening, AI identity badges, animated streak pet cards (fox 🦊, penguin 🐧, owl 🦉, cat 🐱, dog 🐶), Instagram, TikTok, and more. No signup. Paste a URL, get a card.
 
 ---
 
@@ -173,12 +173,12 @@ Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 26+ card types: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, npm Package, Docs, Article, Hacker, Avatar, and more. Free, no signup. |
+| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 29+ card types: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, animated streak pets (fox 🦊, penguin 🐧, owl 🦉, cat 🐱, dog 🐶), npm, Docs, Article, and more. Free, no signup. |
 | [**github-profile-summary**](https://github.com/tipsy/github-profile-summary) | ![Stars](https://img.shields.io/github/stars/tipsy/github-profile-summary?style=social) | Visual summary with activity graphs |
 | [**github-profile-readme-generator**](https://github.com/rahuldkjain/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=social) | Web-based generator with templates |
 | [**profile-readme-generator**](https://github.com/arturssmirnovs/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/arturssmirnovs/github-profile-readme-generator?style=social) | Another web generator |
 
-### coolreadme.xyz — 26 Card Types
+### coolreadme.xyz — 29+ Card Types
 
 Everything below is a live image from a URL. **[Generate yours →](https://coolreadme.xyz/generator)**
 
@@ -277,20 +277,116 @@ Everything below is a live image from a URL. **[Generate yours →](https://cool
   </tr>
 </table>
 
-**Streak Cards — GOD Mode** (unlock with 30+ day streak)
+**Streak Pet Cards** — 5 animals, 9 evolution stages, one commit streak
+
+Your pet evolves as your streak grows. Start as a seed. Reach 365 days and transcend.
+
+> `seed (0d)` → `sprout (4d)` → `grind (10d)` → `streak (20d)` → `god (30d)` → `legend (50d)` → `mythic (100d)` → `eternal (200d)` → `transcended (365d)`
+
+**🦊 Fox Card** — evolves from kit → red → arctic → fennec → nine-tail (9 animated tails at max)
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/cat-card?user=torvalds&amp;streak=35&amp;longest=72&amp;total=18500" width="560" alt="Cat GOD mode" /><br/>
-      <code>/api/cat-card</code> · streak=35 · 👑 GOD mode
+      <img src="https://coolreadme.xyz/api/fox-card?user=torvalds&amp;streak=3&amp;longest=200&amp;total=18500" width="420" alt="Fox kit — seed stage" /><br/>
+      <sub>🌱 seed · <code>streak=3</code> · kit breed</sub>
     </td>
     <td align="center">
-      <img src="https://coolreadme.xyz/api/dog-card?user=torvalds&amp;streak=35&amp;longest=72&amp;total=18500" width="560" alt="Dog GOD mode" /><br/>
-      <code>/api/dog-card</code> · streak=35 · 👑 GOD mode
+      <img src="https://coolreadme.xyz/api/fox-card?user=torvalds&amp;streak=15&amp;longest=200&amp;total=18500" width="420" alt="Fox red — grind stage" /><br/>
+      <sub>🔥 grind · <code>streak=15</code> · red fox</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/fox-card?user=torvalds&amp;streak=50&amp;longest=200&amp;total=18500" width="420" alt="Fox fennec — legend stage" /><br/>
+      <sub>⭐ legend · <code>streak=50</code> · fennec fox</sub>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/fox-card?user=torvalds&amp;streak=200&amp;longest=200&amp;total=18500" width="420" alt="Fox nine-tail — eternal stage" /><br/>
+      <sub>✨ eternal · <code>streak=200</code> · nine-tail fox</sub>
     </td>
   </tr>
 </table>
+
+```markdown
+![Fox Streak](https://coolreadme.xyz/api/fox-card?user=YOURUSERNAME)
+```
+
+**🐧 Penguin Card** — evolves from chick → adelie → tux (Linux Tux!) → rockhopper → emperor
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/penguin-card?user=torvalds&amp;streak=2&amp;longest=200&amp;total=18500" width="420" alt="Penguin chick — seed stage" /><br/>
+      <sub>🐣 seed · <code>streak=2</code> · chick</sub>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/penguin-card?user=torvalds&amp;streak=22&amp;longest=200&amp;total=18500" width="420" alt="Penguin tux — streak stage" /><br/>
+      <sub>🐧 streak · <code>streak=22</code> · Linux Tux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/penguin-card?user=torvalds&amp;streak=55&amp;longest=200&amp;total=18500" width="420" alt="Penguin rockhopper — legend stage" /><br/>
+      <sub>🎸 legend · <code>streak=55</code> · rockhopper</sub>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/penguin-card?user=torvalds&amp;streak=210&amp;longest=210&amp;total=18500" width="420" alt="Penguin emperor — eternal stage" /><br/>
+      <sub>👑 eternal · <code>streak=210</code> · emperor</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+![Penguin Streak](https://coolreadme.xyz/api/penguin-card?user=YOURUSERNAME)
+```
+
+**🦉 Owl Card** — evolves from owlet → barn → horned → snowy → great grey (animated head turn)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/owl-card?user=torvalds&amp;streak=1&amp;longest=200&amp;total=18500" width="420" alt="Owl owlet — seed stage" /><br/>
+      <sub>🌱 seed · <code>streak=1</code> · owlet</sub>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/owl-card?user=torvalds&amp;streak=12&amp;longest=200&amp;total=18500" width="420" alt="Owl barn — grind stage" /><br/>
+      <sub>🔥 grind · <code>streak=12</code> · barn owl</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/owl-card?user=torvalds&amp;streak=45&amp;longest=200&amp;total=18500" width="420" alt="Owl horned — god stage" /><br/>
+      <sub>⚡ god · <code>streak=45</code> · great horned owl</sub>
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/owl-card?user=torvalds&amp;streak=220&amp;longest=220&amp;total=18500" width="420" alt="Owl great grey — eternal stage" /><br/>
+      <sub>🌌 eternal · <code>streak=220</code> · great grey owl</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+![Owl Streak](https://coolreadme.xyz/api/owl-card?user=YOURUSERNAME)
+```
+
+**🐱🐶 Classic Pets** — the originals
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/cat-card?user=torvalds&amp;streak=35&amp;longest=72&amp;total=18500" width="420" alt="Cat GOD mode" /><br/>
+      <code>/api/cat-card</code> · streak=35 · 👑 god mode
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/dog-card?user=torvalds&amp;streak=35&amp;longest=72&amp;total=18500" width="420" alt="Dog GOD mode" /><br/>
+      <code>/api/dog-card</code> · streak=35 · 👑 god mode
+    </td>
+  </tr>
+</table>
+
+> **All 5 pets evolve automatically from your real GitHub streak** — just use `?user=YOURUSERNAME` and skip the `streak=` param.
+> Customize with `breed=`, `accent=`, `bg=` · [**Build yours →**](https://coolreadme.xyz/generator)
 
 **Profile & Identity**
 
