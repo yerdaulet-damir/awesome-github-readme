@@ -39,6 +39,21 @@
 
 <sub>streak cards evolve with your commit streak &nbsp;·&nbsp; 0 → 4 → 10 → 20 → 30 days 🐾</sub>
 
+<br/><br/>
+
+<sub><b>🆕 New · May 2026</b> — platform-mimic cards: <a href="#-platform-cards-new--may-2026">YC, Hacker News, Linear, Letterboxd, Duolingo</a></sub>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/yc-card?company=coolreadme&amp;batch=W26&amp;status=launching&amp;tagline=Embeddable+image+cards+for+GitHub+READMEs&amp;sector=Developer+Tools&amp;funding=%24500K+Pre-Seed" alt="YC W26 launching card" width="420" />
+    </td>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/duolingo-card?streak=247&amp;language=Spanish&amp;xp=18420&amp;league=Diamond&amp;hearts=3&amp;mood=angry" alt="Duolingo passive-aggressive owl card" width="420" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -47,7 +62,7 @@
 
 **Awesome GitHub README** is a curated, weekly-updated collection of 50+ free tools for building stunning GitHub profile READMEs — cards, stats widgets, animations, streak trackers, music widgets, and more. Every tool is hand-picked and categorized.
 
-Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, open-source card generator with 29+ embeddable card types: Netflix, YouTube, Twitch, Steam, X/Twitter, Spotify-style now-listening, AI identity badges, animated streak pet cards (fox 🦊, penguin 🐧, owl 🦉, cat 🐱, dog 🐶), Instagram, TikTok, and more. No signup. Paste a URL, get a card.
+Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, open-source card generator with **34+ embeddable card types**: Netflix, YouTube, Twitch, Steam, X/Twitter, Spotify-style now-listening, AI identity badges, animated streak pet cards (fox 🦊, penguin 🐧, owl 🦉, cat 🐱, dog 🐶), Instagram, TikTok, **and the new platform-mimic batch — Y Combinator, Hacker News, Linear, Letterboxd, Duolingo**. No signup. Paste a URL, get a card.
 
 ---
 
@@ -56,6 +71,7 @@ Part of the **[coolreadme.xyz](https://coolreadme.xyz)** ecosystem — a free, o
 - [What is This?](#what-is-this)
 - [Featured Profiles](#-featured-profiles)
 - [Card Generators & Gallery](#-card-generators--gallery)
+- [🆕 Platform Cards (NEW)](#-platform-cards-new--may-2026) — YC, Hacker News, Linear, Letterboxd, Duolingo
 - [Notable Projects](#-notable-projects-using-coolreadme-cards)
 - [Pet Streak Cards](#-pet-streak-cards)
 - [Profile Cards](PROFILE-CARDS.md)
@@ -180,12 +196,12 @@ Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 
 | Tool | Stars | Description |
 |------|-------|-------------|
-| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | 29+ card types: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, animated streak pets (fox 🦊, penguin 🐧, owl 🦉, cat 🐱, dog 🐶), npm, Docs, Article, and more. Free, no signup. |
+| [**coolreadme.xyz**](https://coolreadme.xyz) | [![Stars](https://img.shields.io/github/stars/yerdaulet-damir/coolreadme?style=social)](https://github.com/yerdaulet-damir/coolreadme) | **34+ card types**: Netflix, Steam, Twitch, YouTube, AI Identity, Now Listening, animated streak pets (fox 🦊, penguin 🐧, owl 🦉, cat 🐱, dog 🐶), Y Combinator, Hacker News, Linear, Letterboxd, Duolingo, npm, Docs, Article, and more. Free, no signup. |
 | [**github-profile-summary**](https://github.com/tipsy/github-profile-summary) | ![Stars](https://img.shields.io/github/stars/tipsy/github-profile-summary?style=social) | Visual summary with activity graphs |
 | [**github-profile-readme-generator**](https://github.com/rahuldkjain/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=social) | Web-based generator with templates |
 | [**profile-readme-generator**](https://github.com/arturssmirnovs/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/arturssmirnovs/github-profile-readme-generator?style=social) | Another web generator |
 
-### coolreadme.xyz — 29+ Card Types
+### coolreadme.xyz — 34+ Card Types
 
 Everything below is a live image from a URL. **[Generate yours →](https://coolreadme.xyz/generator)**
 
@@ -478,7 +494,198 @@ Your pet evolves as your streak grows. Start as a seed. Reach 365 days and trans
   </tr>
 </table>
 
-> Browse all 26 card types with live previews → **[coolreadme.xyz/templates](https://coolreadme.xyz/templates)**
+> Browse all 34 card types with live previews → **[coolreadme.xyz/templates](https://coolreadme.xyz/templates)**
+
+---
+
+## 🆕 Platform Cards <sup>NEW · May 2026</sup>
+
+Mimic the platforms devs already use. Pixel-faithful homages with **original logos** (Simple Icons CC0), full SVG animation, deep customization (every text + element configurable), and **clickable wrap-link** support — readers click the card in your GitHub README and land on your URL.
+
+> All five cards drop into your README the same way: paste a markdown image tag, optionally wrap it in a link.
+
+---
+
+### 🪙 Y Combinator card
+
+For founders, batch alumni, and the W26-curious. Show your company, batch, status (launching / hiring / stealth / acquired), funding, founders, and tagline. Defaults to the GitHub avatar as the company logo.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/yc-card?company=coolreadme&amp;batch=W26&amp;status=launching&amp;tagline=Embeddable+image+cards+for+GitHub+READMEs&amp;sector=Developer+Tools&amp;funding=%24500K+Pre-Seed&amp;link=https%3A%2F%2Fcoolreadme.xyz" alt="YC W26 launching" /><br/>
+      <sub>🚀 launching · <code>batch=W26</code> · with website link</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/yc-card?company=Acme&amp;batch=S24&amp;status=hiring&amp;tagline=We%27re+hiring+our+first+5+engineers.+Remote%2C+equity-heavy%2C+ship+fast.&amp;sector=AI+Agents&amp;funding=%242M+Seed" alt="YC S24 hiring" /><br/>
+      <sub>🛠️ hiring · <code>status=hiring</code> · the JOIN US badge</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/yc-card?company=redacted&amp;batch=STEALTH&amp;status=stealth&amp;tagline=Building+something+in+stealth+%E2%80%94+DM+if+you+want+to+chat.&amp;sector=AI+Agents&amp;funding=Undisclosed" alt="YC stealth" /><br/>
+      <sub>🥷 stealth · <code>batch=STEALTH</code> · the mystery DM-if-you-know vibe</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+[![YC](https://coolreadme.xyz/api/yc-card?company=YOUR_STARTUP&batch=W26&status=launching)](https://your-startup.com)
+```
+
+---
+
+### 🟧 Hacker News card
+
+Cream `#f6f6ef` bg, orange header, the iconic Y mark. Use for **Show HN**, **Ask HN**, **Launch HN**, and **Tell HN** posts. The dated-on-purpose Verdana aesthetic is the brand.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/hackernews-card?kind=show&amp;title=I+rebuilt+GitHub+README+cards+with+edge-rendered+SVG&amp;url=coolreadme.xyz&amp;points=247&amp;comments=89&amp;rank=1&amp;age=3+hours+ago&amp;user=yerdaulet-damir" alt="Show HN frontpage" /><br/>
+      <sub>🚀 <code>kind=show</code> · the launch post</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/hackernews-card?kind=ask&amp;title=How+do+you+stay+productive+when+shipping+solo%3F&amp;points=412&amp;comments=287&amp;age=5+hours+ago" alt="Ask HN" /><br/>
+      <sub>🤔 <code>kind=ask</code> · the conversation starter</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/hackernews-card?kind=launch&amp;title=Acme+%28YC+W26%29+%E2%80%94+embeddable+cards+for+GitHub+READMEs&amp;url=coolreadme.xyz&amp;points=312&amp;comments=124&amp;age=6+hours+ago" alt="Launch HN" /><br/>
+      <sub>🎉 <code>kind=launch</code> · the YC batch announcement</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/hackernews-card?kind=tell&amp;title=I%27m+shutting+down+my+side+project+after+4+years&amp;points=168&amp;comments=96&amp;rank=4&amp;age=8+hours+ago" alt="Tell HN" /><br/>
+      <sub>📣 <code>kind=tell</code> · the meme post</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+[![HN](https://coolreadme.xyz/api/hackernews-card?kind=show&title=YOUR+POST&url=YOURDOMAIN.com)](https://news.ycombinator.com/item?id=…)
+```
+
+---
+
+### 🔷 Linear issue card
+
+Every dev recognizes Linear's status circles. **Backlog → Todo → In Progress** (rotating yellow arc) **→ Done → Canceled**. Priority bars, project label, cycle, assignee avatar, ⌘+K shortcut. Use for shipping callouts, P0 incidents, and "feature in progress" pin posts.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/linear-card?id=BUG-911&amp;title=Login+flow+broken+in+production+for+some+users&amp;status=in-progress&amp;priority=urgent&amp;project=Auth&amp;labels=bug%2Cp0%2Concall&amp;estimate=2+hours" alt="Linear urgent bug" /><br/>
+      <sub>🔥 <code>status=in-progress</code> · <code>priority=urgent</code> · the P0 fire</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/linear-card?id=FEAT-247&amp;title=Add+work+history+card+to+GitHub+README+generator&amp;status=in-progress&amp;priority=high&amp;project=README+v2&amp;labels=feature%2Capi&amp;estimate=3+days" alt="Linear feature in progress" /><br/>
+      <sub>⚡ <code>status=in-progress</code> · <code>priority=high</code> · the work-in-progress flex</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/linear-card?id=FEAT-512&amp;title=Ship+the+public+launch+checklist&amp;status=done&amp;priority=high&amp;project=Launch&amp;labels=feature%2Claunch" alt="Linear shipped" /><br/>
+      <sub>✅ <code>status=done</code> · the satisfying close-out</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/linear-card?id=TASK-77&amp;title=Migrate+the+legacy+admin+to+React+17&amp;status=canceled&amp;priority=low&amp;project=Tech+Debt&amp;labels=tech-debt%2Cwon%27t-fix" alt="Linear canceled" /><br/>
+      <sub>🚫 <code>status=canceled</code> · won't fix</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+[![Linear](https://coolreadme.xyz/api/linear-card?id=FEAT-247&title=YOUR+TICKET&status=in-progress&priority=high)](https://linear.app/your-team/issue/FEAT-247)
+```
+
+---
+
+### 🟢 Letterboxd film card
+
+For developer-cinephiles. 5-star rating with **half-star precision**, optional **♥ liked** indicator, rewatch tag, "watched on" date, review snippet. Drop in a TMDB poster URL or skip the poster entirely.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/letterboxd-card?title=Everything+Everywhere+All+at+Once&amp;year=2022&amp;director=Daniels&amp;rating=5&amp;review=A+chaotic+masterpiece.+Please+see+this+with+someone+you+love.&amp;liked=true&amp;watchedOn=2025-04-12" alt="Everything Everywhere 5 stars" /><br/>
+      <sub>⭐⭐⭐⭐⭐ <code>rating=5</code> · <code>liked=true</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/letterboxd-card?title=Past+Lives&amp;year=2023&amp;director=Celine+Song&amp;rating=4.5&amp;review=First+watch.+I+am+wrecked.+I+am+calling+my+parents.&amp;liked=true&amp;watchedOn=2025-03-08" alt="Past Lives 4.5" /><br/>
+      <sub>★★★★½ <code>rating=4.5</code> · the half-star precision</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/letterboxd-card?title=Spirited+Away&amp;year=2001&amp;director=Hayao+Miyazaki&amp;rating=5&amp;review=My+comfort+rewatch.+Watched+it+more+times+than+I%27ve+watched+the+news.&amp;liked=true&amp;watchedOn=2025-04-12&amp;rewatch=true" alt="Spirited Away rewatch" /><br/>
+      <sub>🍿 <code>rewatch=true</code> · the comfort-movie loop</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/letterboxd-card?title=Cats&amp;year=2019&amp;director=Tom+Hooper&amp;rating=0.5&amp;review=I+cannot+describe+what+I+just+watched+and+I+will+not+be+elaborating.&amp;liked=false" alt="Cats 0.5 star" /><br/>
+      <sub>💀 <code>rating=0.5</code> · the hated-it meme</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+[![Letterboxd](https://coolreadme.xyz/api/letterboxd-card?title=YOUR+FILM&rating=4.5&liked=true)](https://letterboxd.com/film/your-film/)
+```
+
+---
+
+### 🦉 Duolingo streak card
+
+The threatening green owl. Show your daily streak, language, XP, league (Bronze → Diamond), and remaining hearts. **Three owl moods**: happy, passive-aggressive (the meme), or sad (lost-streak energy). Default copy is the famous "Don't lose your streak!"
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/duolingo-card?streak=247&amp;language=Spanish&amp;xp=18420&amp;league=Diamond&amp;hearts=3&amp;mood=angry" alt="Duolingo passive-aggressive owl" /><br/>
+      <sub>😡 <code>mood=angry</code> · the threatening owl meme</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/duolingo-card?streak=247&amp;language=Japanese&amp;xp=24800&amp;league=Diamond&amp;hearts=5&amp;mood=happy&amp;message=247+days.+No+skips.+No+mercy.+%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82" alt="Duolingo Japanese flex" /><br/>
+      <sub>🔥 <code>mood=happy</code> · the 247-day flex</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/duolingo-card?streak=1&amp;language=French&amp;xp=4200&amp;league=Silver&amp;hearts=0&amp;mood=sad&amp;message=I%27m+sorry%2C+you+lost+your+412-day+streak.+I+am+so+disappointed." alt="Duolingo lost streak" /><br/>
+      <sub>💀 <code>mood=sad</code> · <code>hearts=0</code> · the painful reset</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://coolreadme.xyz/api/duolingo-card?streak=365&amp;language=High+Valyrian&amp;xp=31200&amp;league=Diamond&amp;hearts=5&amp;mood=happy&amp;message=Valar+morghulis.+365+days+of+fictional+language+excellence." alt="Duolingo High Valyrian" /><br/>
+      <sub>🐉 <code>language=High+Valyrian</code> · the nerd flex</sub>
+    </td>
+  </tr>
+</table>
+
+```markdown
+[![Duolingo](https://coolreadme.xyz/api/duolingo-card?streak=247&language=Spanish&mood=angry)](https://duolingo.com/profile/YOURUSERNAME)
+```
+
+---
+
+> **Generate any of the above interactively →** [**coolreadme.xyz/generator**](https://coolreadme.xyz/generator) (pick a Vibe preset, tweak every text + color, copy-paste markdown)
 
 ---
 
