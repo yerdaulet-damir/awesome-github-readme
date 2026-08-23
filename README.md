@@ -823,6 +823,7 @@ Real open-source projects embedding coolreadme cards in their READMEs.
 | Tool | Description |
 |------|-------------|
 | [**shields.io**](https://shields.io) | **The standard.** Millions of badges. |
+| [**terminal-shields**](https://github.com/seuthootDev/terminal-shields) | Shields-style neon terminal one-liner badges (static + live GitHub/npm, Simple Icons) |
 | [**simple-icons**](https://simpleicons.org) | 3000+ brand SVG icons |
 | [**badgen.net**](https://badgen.net) | Fast badge generator |
 | [**for-the-badge**](https://github.com/Naereen/badges) | Stylish badge collection |
