@@ -722,8 +722,6 @@ Real open-source projects embedding coolreadme cards in their READMEs.
 | [**github-readme-stats-alt**](https://github.com/DenverCoder1/github-readme-stats) | ![Stars](https://img.shields.io/github/stars/DenverCoder1/github-readme-stats?style=social) | Fork with more themes |
 | [**github-readme-insight-terminal-ascii**](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) | ![Stars](https://img.shields.io/github/stars/seuthootDev/github-readme-insight-terminal-ascii?style=social) | Terminal-style ASCII contribution graph SVG for your README |
 
-![Terminal ASCII contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=seuthootDev&theme=mac&scale=0.6)
-
 ### Example
 
 ```markdown
