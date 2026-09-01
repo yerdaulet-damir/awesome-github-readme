@@ -720,6 +720,7 @@ Real open-source projects embedding coolreadme cards in their READMEs.
 | [**github-readme-stats**](https://github.com/anuraghazra/github-readme-stats) | ![Stars](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social) | **The OG.** Stats cards with themes. 70k+ stars. |
 | [**github-readme-streak-stats**](https://github.com/Ashutosh00710/github-readme-streak-stats) | ![Stars](https://img.shields.io/github/stars/Ashutosh00710/github-readme-streak-stats?style=social) | Commit streak tracker |
 | [**github-readme-stats-alt**](https://github.com/DenverCoder1/github-readme-stats) | ![Stars](https://img.shields.io/github/stars/DenverCoder1/github-readme-stats?style=social) | Fork with more themes |
+| [Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart) | | Static 30/90/365-day contribution charts as README-safe SVGs via GitHub Actions or local Git. |
 
 ### Example
 
