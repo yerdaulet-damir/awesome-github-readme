@@ -720,6 +720,7 @@ Real open-source projects embedding coolreadme cards in their READMEs.
 | [**github-readme-stats**](https://github.com/anuraghazra/github-readme-stats) | ![Stars](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social) | **The OG.** Stats cards with themes. 70k+ stars. |
 | [**github-readme-streak-stats**](https://github.com/Ashutosh00710/github-readme-streak-stats) | ![Stars](https://img.shields.io/github/stars/Ashutosh00710/github-readme-streak-stats?style=social) | Commit streak tracker |
 | [**github-readme-stats-alt**](https://github.com/DenverCoder1/github-readme-stats) | ![Stars](https://img.shields.io/github/stars/DenverCoder1/github-readme-stats?style=social) | Fork with more themes |
+| [**GitHubCard**](https://githubcard.com) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithubcard.com) | Drag-and-drop profile & repo card designer with live stats, streak and language widgets; embed as SVG |
 
 ### Example
 
