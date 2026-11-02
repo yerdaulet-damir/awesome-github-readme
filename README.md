@@ -200,6 +200,7 @@ Dynamic cards that render your profile info. Copy-paste markdown. No signup.
 | [**github-profile-summary**](https://github.com/tipsy/github-profile-summary) | ![Stars](https://img.shields.io/github/stars/tipsy/github-profile-summary?style=social) | Visual summary with activity graphs |
 | [**github-profile-readme-generator**](https://github.com/rahuldkjain/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=social) | Web-based generator with templates |
 | [**profile-readme-generator**](https://github.com/arturssmirnovs/github-profile-readme-generator) | ![Stars](https://img.shields.io/github/stars/arturssmirnovs/github-profile-readme-generator?style=social) | Another web generator |
+| [**GitHub Planet**](https://github.com/nitr0yukkuri/githubplanet) | ![Stars](https://img.shields.io/github/stars/nitr0yukkuri/githubplanet?style=social) | Interactive 3D planets from GitHub activity, with shareable profile cards and animated GIFs. |
 
 ### coolreadme.xyz — 34+ Card Types
 
